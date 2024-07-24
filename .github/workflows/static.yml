@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHASE-4: Robotics and Practical Work</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFFFFF;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #000000;
+            color: #FFFFFF;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #000000;
+            color: #FFFFFF;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>PHASE-4: Robotics and Practical Work</h1>
+    </header>
+    <div class="container">
+        <p>Details of your robot creation and practical work related to robots.</p>
+        <button onclick="location.href='index.html'">Back to Home</button>
+    </div>
+    <footer>
+        <p>&copy; 2024 Tancent. All rights reserved.</p>
+    </footer>
+</body>
+</html>
